@@ -55,7 +55,7 @@ module.exports = {
             primary: '#444444',
             'gradient-1': '#444444',
             'gradient-2': '#444444',
-            'gradient-3': '#FF76B8',
+            'gradient-3': '#aa00ff',
             'gradient-4': '#001AFF',
           },
         },
